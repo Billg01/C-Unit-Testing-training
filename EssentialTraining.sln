@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.1062
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EssentialTraining", "EssentialTraining\EssentialTraining.csproj", "{17E97B9B-5C67-4E23-86E5-E1277E9F03CD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EssentialTrainingTests", "EssentialTrainingTests\EssentialTrainingTests.csproj", "{AE4E4505-3BDF-4CE3-BED6-E51644228A6B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{17E97B9B-5C67-4E23-86E5-E1277E9F03CD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{17E97B9B-5C67-4E23-86E5-E1277E9F03CD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{17E97B9B-5C67-4E23-86E5-E1277E9F03CD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{17E97B9B-5C67-4E23-86E5-E1277E9F03CD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AE4E4505-3BDF-4CE3-BED6-E51644228A6B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AE4E4505-3BDF-4CE3-BED6-E51644228A6B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AE4E4505-3BDF-4CE3-BED6-E51644228A6B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AE4E4505-3BDF-4CE3-BED6-E51644228A6B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5922168B-4842-4572-8274-2364F2E1DE27}
+	EndGlobalSection
+EndGlobal
