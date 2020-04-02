@@ -20,6 +20,6 @@ namespace EssentialTrainingTests
         {
             var testInstance = new SimpleArray();
             Assert.IsTrue(testInstance.ToString().StartsWith("There are"));
-        }
+        }      
     }
 }
